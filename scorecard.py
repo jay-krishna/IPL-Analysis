@@ -147,3 +147,10 @@ def generate(file,des):
 	    df_batting.to_csv(des+"/batting_second.csv")
 	    df_bowling.to_csv(des+"/bowling_second.csv")
 
+def calculate(src):
+
+	data=pd.read_csv(src)
+
+	runs=data["Runs"].sum()+data["Extras"].sum()
+
+	return runs
