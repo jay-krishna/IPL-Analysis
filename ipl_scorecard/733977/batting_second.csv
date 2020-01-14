@@ -1,0 +1,9 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+CH Gayle,19,27,12,3,12,12,True,caught,KV Sharma
+PA Patel,5,3,3,3,0,0,True,bowled,B Kumar
+V Kohli,5,0,6,0,0,0,True,caught,B Kumar
+RR Rossouw,23,14,14,10,4,0,True,lbw,KV Sharma
+AB de Villiers,40,89,13,17,24,48,False,,
+Yuvraj Singh,16,14,10,4,4,6,True,caught,KV Sharma
+MA Starc,8,5,4,5,0,0,True,run out,
+HV Patel,2,1,1,1,0,0,False,,

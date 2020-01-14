@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+M Vijay,5,1,4,1,0,0,True,run out,
+M Vohra,24,32,12,12,20,0,True,bowled,A Mishra
+SE Marsh,16,13,10,5,8,0,True,stumped,A Mishra
+DA Miller,9,9,6,5,4,0,True,lbw,A Mishra
+GJ Maxwell,3,0,3,0,0,0,True,caught,A Mishra
+AR Patel,22,11,14,7,4,0,True,caught,J Yadav
+WP Saha,7,3,4,3,0,0,True,run out,
+MG Johnson,11,4,9,4,0,0,True,bowled,CH Morris
+MM Sharma,8,15,4,5,4,6,True,caught,Z Khan
+P Sahu,12,18,4,8,4,6,False,,
+Sandeep Sharma,2,1,1,1,0,0,False,,

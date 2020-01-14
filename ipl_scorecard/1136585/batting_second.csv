@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+KL Rahul,26,32,11,10,16,6,True,bowled,Rashid Khan
+CH Gayle,22,23,12,7,4,12,True,caught and bowled,Basil Thampi
+MA Agarwal,15,12,5,12,0,0,True,caught,Shakib Al Hasan
+KK Nair,17,13,6,13,0,0,True,lbw,Rashid Khan
+AJ Finch,4,8,1,2,0,6,True,caught,Shakib Al Hasan
+MK Tiwary,5,1,4,1,0,0,True,caught,Sandeep Sharma
+R Ashwin,6,4,2,4,0,0,True,caught,Rashid Khan
+AJ Tye,2,4,1,0,4,0,True,lbw,Sandeep Sharma
+BB Sran,5,2,3,2,0,0,True,run out,
+AS Rajpoot,8,8,4,4,4,0,True,bowled,Basil Thampi
+Mujeeb Ur Rahman,4,10,1,2,8,0,False,,

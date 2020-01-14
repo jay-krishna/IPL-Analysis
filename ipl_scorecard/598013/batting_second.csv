@@ -1,0 +1,10 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+PA Patel,28,27,16,13,8,6,True,bowled,JH Kallis
+CL White,29,34,11,16,12,6,True,caught,JH Kallis
+KC Sangakkara,3,2,1,2,0,0,True,caught,R Bhatia
+DB Ravi Teja,12,10,5,10,0,0,True,caught,SP Narine
+NLTC Perera,24,36,4,22,8,6,True,bowled,JH Kallis
+A Ashish Reddy,5,4,2,4,0,0,True,bowled,SMSM Senanayake
+KV Sharma,9,5,5,5,0,0,False,,
+GH Vihari,2,1,1,1,0,0,True,caught,R Bhatia
+A Mishra,1,1,0,1,0,0,False,,

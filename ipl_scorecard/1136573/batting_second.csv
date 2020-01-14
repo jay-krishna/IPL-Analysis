@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+G Gambhir,7,8,2,4,4,0,True,bowled,Shivam Mavi
+JJ Roy,3,1,3,1,0,0,True,stumped,PP Chawla
+SS Iyer,3,4,2,0,4,0,True,caught,AD Russell
+RR Pant,24,43,14,9,28,6,True,caught,Kuldeep Yadav
+GJ Maxwell,21,47,6,11,12,24,True,caught,Kuldeep Yadav
+R Tewatia,2,1,1,1,0,0,True,caught,TK Curran
+V Shankar,4,2,2,2,0,0,True,lbw,SP Narine
+CH Morris,3,2,1,2,0,0,True,bowled,SP Narine
+Mohammed Shami,6,7,2,3,4,0,True,caught,SP Narine
+S Nadeem,8,6,2,6,0,0,False,,
+TA Boult,2,0,2,0,0,0,True,caught and bowled,Kuldeep Yadav

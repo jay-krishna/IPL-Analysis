@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+RG Sharma,3,5,1,1,4,0,True,bowled,A Nehra
+PA Patel,4,0,4,0,0,0,True,lbw,B Kumar
+KH Pandya,11,17,6,3,8,6,True,caught,BB Sran
+AT Rayudu,6,6,3,2,4,0,True,caught,A Nehra
+JC Buttler,2,2,1,2,0,0,True,caught,A Nehra
+HH Pandya,16,7,9,7,0,0,True,caught,Mustafizur Rahman
+KA Pollard,12,11,8,3,8,0,True,caught,MC Henriques
+TG Southee,4,3,1,3,0,0,True,caught,Mustafizur Rahman
+Harbhajan Singh,22,21,13,13,8,0,False,,
+MJ McClenaghan,9,8,4,4,4,0,True,caught,Mustafizur Rahman
+JJ Bumrah,9,6,6,2,4,0,True,caught,BB Sran

@@ -1,0 +1,11 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+KL Rahul,55,79,24,33,16,30,True,caught,KK Ahmed
+CH Gayle,3,4,2,0,4,0,True,caught,KK Ahmed
+MA Agarwal,18,27,3,13,8,6,True,caught,Rashid Khan
+N Pooran,10,21,5,1,8,12,True,caught,KK Ahmed
+DA Miller,11,11,5,7,4,0,True,caught,Rashid Khan
+R Ashwin,1,0,1,0,0,0,True,caught,Rashid Khan
+P Simran Singh,17,16,11,6,4,6,True,lbw,Sandeep Sharma
+Mujeeb Ur Rahman,3,0,3,0,0,0,True,bowled,Sandeep Sharma
+Mohammed Shami,1,1,0,1,0,0,False,,
+M Ashwin,1,1,0,1,0,0,False,,

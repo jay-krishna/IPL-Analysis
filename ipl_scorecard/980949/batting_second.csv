@@ -1,0 +1,9 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+DR Smith,37,63,14,21,36,6,True,bowled,NLTC Perera
+BB McCullum,22,43,8,11,20,12,True,caught,R Bhatia
+SK Raina,28,34,5,26,8,0,True,bowled,NLTC Perera
+KD Karthik,20,33,3,17,16,0,True,caught,AB Dinda
+DJ Bravo,6,7,4,3,4,0,True,caught,AB Dinda
+RA Jadeja,1,0,1,0,0,0,True,run out,
+JP Faulkner,5,9,1,5,4,0,False,,
+Ishan Kishan,1,0,1,0,0,0,True,run out,

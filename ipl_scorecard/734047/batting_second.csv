@@ -1,0 +1,10 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+DR Smith,8,7,7,7,0,0,True,bowled,Sandeep Sharma
+F du Plessis,1,0,1,0,0,0,True,caught,MG Johnson
+SK Raina,24,87,5,3,48,36,True,run out,
+BB McCullum,15,11,6,11,0,0,True,run out,
+RA Jadeja,21,27,7,13,8,6,True,caught,P Awana
+DJ Hussey,3,1,2,1,0,0,True,caught,P Awana
+MS Dhoni,29,42,17,12,12,18,False,,
+R Ashwin,11,10,2,10,0,0,True,stumped,AR Patel
+MM Sharma,3,1,2,1,0,0,False,,

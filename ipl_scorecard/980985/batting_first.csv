@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+RG Sharma,24,15,12,11,4,0,True,bowled,AR Patel
+UBT Chand,4,0,5,0,0,0,True,caught,MM Sharma
+AT Rayudu,3,0,3,0,0,0,True,bowled,Sandeep Sharma
+N Rana,27,25,19,7,0,18,True,caught,MP Stoinis
+JC Buttler,10,9,4,5,4,0,True,caught,MP Stoinis
+KA Pollard,19,27,10,9,0,18,True,bowled,MP Stoinis
+KH Pandya,12,19,4,9,4,6,True,caught,MP Stoinis
+TG Southee,3,1,2,1,0,0,True,caught,MM Sharma
+Harbhajan Singh,10,14,4,4,4,6,False,,
+MJ McClenaghan,4,4,3,0,4,0,True,caught,Sandeep Sharma
+JJ Bumrah,2,2,0,2,0,0,False,,

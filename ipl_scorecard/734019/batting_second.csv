@@ -1,0 +1,9 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+V Sehwag,19,23,13,9,8,6,True,caught,JP Duminy
+M Vohra,19,42,13,8,16,18,True,caught,Imran Tahir
+GJ Maxwell,10,14,6,8,0,6,True,bowled,Imran Tahir
+DA Miller,6,2,4,2,0,0,True,bowled,JP Duminy
+WP Saha,13,13,7,9,4,0,True,caught,Mohammed Shami
+AR Patel,35,42,15,16,20,6,False,,
+GJ Bailey,7,6,2,6,0,0,True,caught,Imran Tahir
+R Dhawan,5,8,2,4,4,0,False,,

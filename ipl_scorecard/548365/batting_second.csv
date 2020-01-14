@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+SC Ganguly,4,2,2,2,0,0,True,stumped,A Chandila
+JD Ryder,2,1,1,1,0,0,True,caught,A Chandila
+RV Uthappa,6,6,4,2,4,0,True,stumped,A Chandila
+AP Majumdar,8,9,5,1,8,0,True,caught and bowled,A Chandila
+CJ Ferguson,25,23,12,15,8,0,True,lbw,J Botha
+SPD Smith,30,37,10,17,20,0,True,caught,J Botha
+AD Mathews,19,23,3,19,4,0,True,caught,SR Watson
+B Kumar,5,3,2,3,0,0,True,bowled,SW Tait
+M Kartik,9,8,1,8,0,0,False,,
+R Sharma,2,0,3,0,0,0,True,caught,SR Watson
+A Nehra,8,9,3,5,4,0,False,,

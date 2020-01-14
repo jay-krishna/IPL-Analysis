@@ -1,0 +1,9 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+AM Rahane,11,9,8,1,8,0,True,bowled,Sandeep Sharma
+F du Plessis,50,67,17,35,32,0,True,caught and bowled,MM Sharma
+KP Pietersen,14,15,7,7,8,0,True,caught,KJ Abbott
+NLTC Perera,9,8,4,4,4,0,True,caught,Sandeep Sharma
+SPD Smith,25,38,8,18,20,0,True,caught,MM Sharma
+MS Dhoni,2,1,1,1,0,0,True,caught,MM Sharma
+IK Pathan,2,2,0,2,0,0,True,run out,
+R Ashwin,2,1,1,1,0,0,False,,

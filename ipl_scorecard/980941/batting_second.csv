@@ -1,0 +1,9 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+M Vijay,13,19,6,5,8,6,True,caught,TG Southee
+M Vohra,11,7,4,7,0,0,True,caught,JJ Bumrah
+SE Marsh,33,45,7,27,12,6,True,caught,TG Southee
+GJ Maxwell,38,56,10,30,20,6,True,bowled,JJ Bumrah
+DA Miller,16,30,5,14,4,12,False,,
+NS Naik,3,1,2,1,0,0,True,bowled,JJ Bumrah
+AR Patel,2,0,2,0,0,0,True,bowled,MJ McClenaghan
+MG Johnson,2,1,1,1,0,0,True,bowled,MJ McClenaghan

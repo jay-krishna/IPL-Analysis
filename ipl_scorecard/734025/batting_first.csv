@@ -1,0 +1,11 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+V Sehwag,11,17,8,1,4,12,True,run out,
+M Vohra,34,36,18,14,16,6,True,bowled,S Gopal
+SE Marsh,16,30,8,10,8,12,True,caught,K Santokie
+GJ Maxwell,3,2,2,2,0,0,True,caught and bowled,S Gopal
+GJ Bailey,30,39,12,19,8,12,True,caught,JJ Bumrah
+WP Saha,7,3,6,3,0,0,True,run out,
+AR Patel,6,6,3,2,4,0,True,caught,P Kumar
+R Dhawan,9,14,1,6,8,0,False,,
+BE Hendricks,1,0,1,0,0,0,True,bowled,JJ Bumrah
+Shivam Sharma,1,1,0,1,0,0,False,,

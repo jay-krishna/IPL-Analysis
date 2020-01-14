@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+V Kohli,9,4,5,4,0,0,True,bowled,K Gowtham
+PA Patel,20,33,7,9,12,12,True,stumped,S Gopal
+AB de Villiers,35,53,8,25,28,0,True,stumped,S Gopal
+MM Ali,2,1,1,1,0,0,True,caught and bowled,S Gopal
+Mandeep Singh,4,3,2,3,0,0,True,stumped,S Gopal
+C de Grandhomme,3,2,1,2,0,0,True,caught,IS Sodhi
+SN Khan,8,7,4,3,4,0,True,caught,B Laughlin
+TG Southee,17,14,10,6,8,0,True,caught,JD Unadkat
+UT Yadav,1,0,1,0,0,0,True,bowled,B Laughlin
+Mohammed Siraj,12,14,5,6,8,0,True,caught,JD Unadkat
+YS Chahal,3,0,4,0,0,0,False,,

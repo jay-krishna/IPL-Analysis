@@ -1,0 +1,11 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+SR Watson,5,0,5,0,0,0,True,caught,B Kumar
+SK Raina,13,22,5,6,16,0,True,bowled,S Kaul
+F du Plessis,42,67,12,23,20,24,False,,
+AT Rayudu,1,0,1,0,0,0,True,bowled,S Kaul
+MS Dhoni,17,9,14,5,4,0,True,bowled,Rashid Khan
+DJ Bravo,11,7,5,7,0,0,True,caught,Rashid Khan
+RA Jadeja,5,3,3,3,0,0,True,caught and bowled,Sandeep Sharma
+DL Chahar,6,10,1,4,0,6,True,caught,Sandeep Sharma
+Harbhajan Singh,8,2,7,2,0,0,True,run out,
+SN Thakur,5,15,0,3,12,0,False,,

@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+R Dravid,3,2,1,2,0,0,True,bowled,I Sharma
+W Jaffer,16,6,13,6,0,0,True,caught,AB Dinda
+V Kohli,4,1,4,1,0,0,True,bowled,AB Dinda
+JH Kallis,6,8,4,2,0,6,True,caught,AB Agarkar
+CL White,10,6,5,6,0,0,True,caught,AB Agarkar
+MV Boucher,8,7,8,3,4,0,True,caught,SC Ganguly
+B Akhil,2,0,2,0,0,0,True,caught,AB Agarkar
+AA Noffke,10,9,6,5,4,0,True,run out,
+P Kumar,13,18,12,2,4,12,False,,
+Z Khan,8,3,5,3,0,0,True,bowled,SC Ganguly
+SB Joshi,6,3,5,3,0,0,True,caught,LR Shukla

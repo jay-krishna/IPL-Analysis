@@ -1,0 +1,11 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+AM Rahane,25,23,13,15,8,0,True,bowled,R Dhawan
+KK Nair,6,11,3,3,8,0,True,caught,L Balaji
+SV Samson,29,30,11,16,8,6,True,stumped,Karanveer Singh
+SR Watson,1,0,1,0,0,0,True,bowled,R Dhawan
+STR Binny,10,7,6,7,0,0,True,caught,Karanveer Singh
+R Tewatia,10,16,5,10,0,6,True,caught,AR Patel
+BJ Hodge,18,31,7,11,8,12,True,stumped,AR Patel
+JP Faulkner,13,35,2,7,4,24,False,,
+KK Cooper,2,2,1,2,0,0,True,caught,AR Patel
+VS Malik,2,1,1,1,0,0,False,,

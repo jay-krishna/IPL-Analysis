@@ -1,0 +1,11 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+DA Warner,30,46,10,16,24,6,True,bowled,J Yadav
+S Dhawan,36,34,15,22,12,0,True,caught,A Mishra
+KS Williamson,22,27,8,15,12,0,True,bowled,CH Morris
+Yuvraj Singh,8,8,5,2,0,6,True,caught,A Mishra
+MC Henriques,1,0,1,0,0,0,True,lbw,Mohammed Shami
+DJ Hooda,8,10,2,6,4,0,True,hit wicket,NM Coulter-Nile
+NV Ojha,9,7,5,3,4,0,True,caught,NM Coulter-Nile
+B Kumar,2,1,1,1,0,0,True,run out,
+BB Sran,0,1,0,1,0,0,False,,
+A Nehra,1,1,0,1,0,0,False,,

@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+Mandeep Singh,40,46,20,14,20,12,True,bowled,GJ Maxwell
+CH Gayle,2,0,2,0,0,0,True,caught,Sandeep Sharma
+V Kohli,6,6,4,2,4,0,True,bowled,Sandeep Sharma
+AB de Villiers,6,10,4,0,4,6,True,caught,Sandeep Sharma
+KM Jadhav,6,6,3,2,4,0,True,caught,MM Sharma
+SR Watson,6,3,3,3,0,0,True,caught,AR Patel
+P Negi,22,21,10,13,8,0,True,caught,AR Patel
+S Aravind,6,4,3,4,0,0,True,lbw,GJ Maxwell
+S Badree,9,8,3,8,0,0,True,bowled,AR Patel
+YS Chahal,4,4,0,4,0,0,False,,
+A Choudhary,6,4,2,4,0,0,True,caught,MM Sharma

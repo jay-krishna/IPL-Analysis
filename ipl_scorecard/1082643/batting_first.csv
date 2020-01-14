@@ -1,0 +1,12 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+DR Smith,32,54,12,14,28,12,True,lbw,Rashid Khan
+Ishan Kishan,39,61,16,17,20,24,True,caught,Mohammed Siraj
+SK Raina,5,2,3,2,0,0,True,caught,Mohammed Siraj
+KD Karthik,1,0,1,0,0,0,True,caught,Rashid Khan
+RA Jadeja,14,20,2,12,8,0,False,,
+AJ Finch,3,2,2,2,0,0,True,bowled,Rashid Khan
+JP Faulkner,10,8,5,4,4,0,True,bowled,Mohammed Siraj
+PJ Sangwan,1,0,1,0,0,0,True,bowled,Mohammed Siraj
+Ankit Soni,4,0,6,0,0,0,True,bowled,S Kaul
+P Kumar,2,1,1,1,0,0,True,bowled,B Kumar
+MM Patel,1,0,1,0,0,0,True,bowled,B Kumar

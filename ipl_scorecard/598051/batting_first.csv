@@ -1,0 +1,6 @@
+Name,Balls,Runs,Dot,Other,4,6,out,out_type,bowler
+MEK Hussey,41,67,14,23,20,24,True,bowled,NLTC Perera
+M Vijay,20,29,12,3,8,18,True,caught,NLTC Perera
+SK Raina,50,99,11,37,44,18,False,,
+MS Dhoni,2,4,1,4,0,0,True,caught,NLTC Perera
+RA Jadeja,6,14,1,2,12,0,False,,
