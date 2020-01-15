@@ -89,16 +89,15 @@ def calculate_averages_slot_batting():
 	df_batting["Avg.12-16"]=(df_batting["12-16"]/df_batting["Matches"])/2
 	df_batting["Avg.16-20"]=(df_batting["16-20"]/df_batting["Matches"])/2
 
-	df_batting["Str.0-6"]=(df_batting["Avg.0-6"]/72)*100
-	df_batting["Str.6-12"]=(df_batting["Avg.6-12"]/72)*100
-	df_batting["Str.12-16"]=(df_batting["Avg.12-16"]/56)*100
-	df_batting["Str.16-20"]=(df_batting["Avg.16-20"]/56)*100
+	df_batting["Str.0-6"]=(df_batting["Avg.0-6"]/36)*100
+	df_batting["Str.6-12"]=(df_batting["Avg.6-12"]/36)*100
+	df_batting["Str.12-16"]=(df_batting["Avg.12-16"]/28)*100
+	df_batting["Str.16-20"]=(df_batting["Avg.16-20"]/28)*100
 
 	df_batting=df_batting.set_index(["Year"])
 
-	print(df_batting)
-	# des=os.path.join(os.getcwd(),"data")
-	# df_batting.to_csv(des+"/combined_slot_batting.csv")
+	des=os.path.join(os.getcwd(),"data")
+	df_batting.to_csv(des+"/combined_slot_batting.csv")
 
 def calculate_averages_slot_bowling():
 	matches=os.path.join(os.getcwd(),'ipl/matches.txt')
@@ -128,15 +127,14 @@ def calculate_averages_slot_bowling():
 	df_bowling["Avg.12-16"]=(df_bowling["12-16"]/df_bowling["Matches"])/2
 	df_bowling["Avg.16-20"]=(df_bowling["16-20"]/df_bowling["Matches"])/2
 
-	df_bowling["Str.0-6"]=(72/df_bowling["Avg.0-6"])
-	df_bowling["Str.6-12"]=(72/df_bowling["Avg.6-12"])
-	df_bowling["Str.12-16"]=(56/df_bowling["Avg.12-16"])
-	df_bowling["Str.16-20"]=(56/df_bowling["Avg.16-20"])
+	df_bowling["Str.0-6"]=(36/df_bowling["Avg.0-6"])
+	df_bowling["Str.6-12"]=(36/df_bowling["Avg.6-12"])
+	df_bowling["Str.12-16"]=(28/df_bowling["Avg.12-16"])
+	df_bowling["Str.16-20"]=(28/df_bowling["Avg.16-20"])
 
-	df_bowling=df_bowling.set_index(["Year"])
-	print(df_bowling)
-	# des=os.path.join(os.getcwd(),"data")
-	# df_bowling.to_csv(des+"/combined_slot_bowling.csv")
+
+	des=os.path.join(os.getcwd(),"data")
+	df_bowling.to_csv(des+"/combined_slot_bowling.csv")
 
 calculate_averages_slot_batting()
 calculate_averages_slot_bowling()
