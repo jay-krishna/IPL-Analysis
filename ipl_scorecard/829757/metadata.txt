@@ -1,1 +1,4 @@
 Runs:194
+Wickets:10
+Slots_Runs:88 78 23 5
+Slots_Wickets:2 2 3 3
