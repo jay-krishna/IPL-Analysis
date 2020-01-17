@@ -2,6 +2,7 @@ import yaml
 import math
 import pandas as pd
 import numpy as np
+import pickle
 
 def generate(file,des):
 
@@ -248,3 +249,62 @@ def generate_slots_wickets(src):
             pass
                 
         return list(wickets.values())
+
+def generate_over(src,des):
+   
+    with open(src) as f:
+        
+        data = yaml.load(f)
+
+        first_inning=[]
+        cur_over=0
+        runs=0
+        wickets=0
+
+        for ball in data["innings"][0]["1st innings"]["deliveries"]:
+            ball_data=list(ball.values())
+            ball_number=int(list(ball.keys())[0])
+
+            if(ball_number>cur_over):
+                cur_over=ball_number
+                first_inning.append((runs,wickets))
+                runs=0
+                wickets=0
+
+            runs+=int(ball_data[0]["runs"]["total"])
+            try:
+                t=ball_data[0]["wicket"]
+                wickets+=1
+            except:
+                pass
+
+        first_inning.append((runs,wickets))
+        cur_over=0
+        runs=0
+        wickets=0
+        second_inning=[]
+
+        try:
+            for ball in data["innings"][1]["2nd innings"]["deliveries"]:
+                ball_data=list(ball.values())
+                ball_number=int(list(ball.keys())[0])
+
+                if(ball_number>cur_over):
+                    cur_over=ball_number
+                    second_inning.append((runs,wickets))
+                    runs=0
+                    wickets=0
+
+                runs+=int(ball_data[0]["runs"]["total"])
+                try:
+                    t=ball_data[0]["wicket"]
+                    wickets+=1
+                except:
+                    pass
+
+            second_inning.append((runs,wickets))
+        except:
+            pass
+
+        pickle.dump(first_inning,open(des+"/first_batting","wb"))
+        pickle.dump(second_inning,open(des+"/second_batting","wb"))

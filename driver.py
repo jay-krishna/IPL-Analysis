@@ -100,7 +100,15 @@ def generate_slots_wickets():
 				file.write(data)
 				file.close()
 
-generate_matchwise_runs()
-generate_matchwise_wickets()
-generate_slots_runs()
-generate_slots_wickets()
+def generate_over():
+	directory_path=os.path.join(os.getcwd(),'ipl')
+
+	for r,d,f in os.walk(directory_path):
+		for file in f:
+			if ".yaml" in file:
+				src=os.path.join(r,file)
+				des=os.path.join(os.getcwd(),"ipl_scorecard/"+file.split(".")[0])
+
+				scorecard.generate_over(src,des)
+
+generate_over()

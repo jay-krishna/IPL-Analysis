@@ -136,5 +136,5 @@ def calculate_averages_slot_bowling():
 	des=os.path.join(os.getcwd(),"data")
 	df_bowling.to_csv(des+"/combined_slot_bowling.csv")
 
-calculate_averages_slot_batting()
-calculate_averages_slot_bowling()
+# calculate_averages_slot_batting()
+# calculate_averages_slot_bowling()
